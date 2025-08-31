@@ -1,3 +1,3 @@
 # PlaywrightAIAutomation
 Playwright AI Automation
-Playwright code new
+Playwright code
